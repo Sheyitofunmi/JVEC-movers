@@ -88,7 +88,7 @@ This will generate an optimized production build in the `build` folder.
 ## Deployment
 
 The project has been deployed to **Netlify** and can be accessed via the following link:
-[Live Demo](https://your-netlify-deployment-url)
+[Live Demo](https://jvec-movers-six.vercel.app/)
 
 ## Comments & Code Organization
 
